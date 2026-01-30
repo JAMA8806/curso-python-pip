@@ -1,6 +1,7 @@
 import random
 
 
+
 def choose_option():
     option = ('rock', 'paper', 'scissors')
     user_choice = input("Enter rock, paper, or scissors: ").lower()
